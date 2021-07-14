@@ -2,24 +2,15 @@
 
 # Name: Nwamara Franklin
 
-# 
+# https://frank-chat-box.herokuapp.com/
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+# User Story
+This is a mini chat app that enables users to communicate with one another online. It has the capacity to bring two or more distant individual closer through its attributes. 
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+# Usage
+1. Visit  https://frank-chat-box.herokuapp.com/ 
+2. send a message
+3. await response.
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+# License
+MIT License. The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). As a permissive license, it puts only very limited restriction on reuse and has, therefore, an excellent license compatibility.
